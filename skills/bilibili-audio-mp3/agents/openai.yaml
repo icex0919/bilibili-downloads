@@ -1,0 +1,6 @@
+interface:
+  display_name: "Bilibili 音訊轉 MP3"
+  short_description: "從 B 站影片連結提取音訊並轉成合適大小的 MP3"
+  default_prompt: "Use $bilibili-audio-mp3 to extract MP3 audio from this Bilibili URL:"
+policy:
+  allow_implicit_invocation: true
