@@ -1,0 +1,6 @@
+interface:
+  display_name: "Bilibili 1080p 影片下載"
+  short_description: "下載 B 站最高不超過 1080p 的 MP4 影片"
+  default_prompt: "Use $bilibili-video-1080p to download this Bilibili video at up to 1080p:"
+policy:
+  allow_implicit_invocation: true
